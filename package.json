@@ -1,0 +1,16 @@
+{
+    "name": "6-web-server",
+    "version": "1.0.0",
+    "description": "Aplicacion de prueba para desplegar en un servidor",
+    "main": "app.js",
+    "scripts": {
+        "start": "node server.js",
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "Francisco Torres",
+    "license": "ISC",
+    "dependencies": {
+        "express": "^4.16.4",
+        "hbs": "^4.0.1"
+    }
+}
